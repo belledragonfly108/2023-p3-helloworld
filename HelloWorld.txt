@@ -24,7 +24,7 @@ class HelloWorld {
         //	i
         //	j
         //	k
-       System.out.println("Hello from liiillllii");
+       System.out.println("Hello from Lilli Belle");
         //	m
         System.out.println("Hello from Mariia");
         //	n
