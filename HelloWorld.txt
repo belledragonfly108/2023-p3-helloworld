@@ -12,6 +12,7 @@ class HelloWorld {
         //	b
     System.out.println("Hello from Bersu");
     System.out.println("Hello from Ryoma");
+    System.out.println("Hello from chuanting");
         //	c
     System.out.println("Hello from Colin");
 	System.out.println("Hello from Shihan");
@@ -25,6 +26,7 @@ class HelloWorld {
         //	k
        System.out.println("Hello from liiillllii");
         //	m
+        System.out.println("Hello from Mariia");
         //	n
         //	o
         System.out.println("Hello from Oscar");
